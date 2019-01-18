@@ -1,2 +1,2 @@
 # hackerearth-problems
-Contains my solution to Hackerearth sorted by respective tagged topics.
+Contains my solutions to Hackerearth sorted by respective tagged topics.
